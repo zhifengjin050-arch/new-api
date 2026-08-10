@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Calcium-Ion/new-api/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Calcium-Ion/new-api?color=brightgreen" alt="license">
+  <a href="https://raw.githubusercontent.com/zhifengjin050-arch/new-api/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zhifengjin050-arch/new-api?color=brightgreen" alt="license">
   </a><!--
-  --><a href="https://github.com/Calcium-Ion/new-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Calcium-Ion/new-api?color=brightgreen&include_prereleases" alt="release">
+  --><a href="https://github.com/zhifengjin050-arch/new-api">
+    <img src="https://img.shields.io/badge/repo-GitHub-brightgreen" alt="repo">
   </a><!--
-  --><a href="https://hub.docker.com/r/CalciumIon/new-api">
-    <img src="https://img.shields.io/badge/docker-dockerHub-blue" alt="docker">
+  --><a href="https://github.com/zhifengjin050-arch/new-api">
+    <img src="https://img.shields.io/github/languages/top/zhifengjin050-arch/new-api" alt="language">
   </a><!--
-  --><a href="https://goreportcard.com/report/github.com/Calcium-Ion/new-api">
-    <img src="https://goreportcard.com/badge/github.com/Calcium-Ion/new-api" alt="GoReportCard">
+  --><a href="https://github.com/zhifengjin050-arch/new-api">
+    <img src="https://img.shields.io/github/repo-size/zhifengjin050-arch/new-api" alt="size">
   </a>
 </p>
 
@@ -45,6 +45,7 @@
 <p align="center">
   <a href="#-快速开始">快速开始</a> •
   <a href="#-主要特性">主要特性</a> •
+  <a href="#-截图展示">截图展示</a> •
   <a href="#-部署">部署</a> •
   <a href="#-文档">文档</a> •
   <a href="#-帮助支持">帮助</a>
@@ -289,6 +290,29 @@ docker run --name new-api -d --restart always \
 - [Google Gemini 聊天](https://docs.newapi.pro/zh/docs/api/ai-model/chat/gemini/geminirelayv1beta)
 
 </details>
+
+---
+
+## 📸 截图展示
+
+<div align="center">
+
+### 🏠 首页展示
+![首页展示](docs/images/screenshots/01-landing.png)
+
+### 📊 仪表板概览
+![仪表板概览](docs/images/screenshots/02-dashboard.png)
+
+### 💰 定价页面
+![定价页面](docs/images/screenshots/03-pricing.png)
+
+### 📊 数据分析
+![数据分析](docs/images/screenshots/05-dashboard.png)
+
+### 🔑 API 密钥管理
+![API 密钥管理](docs/images/screenshots/04-api-keys.png)
+
+</div>
 
 ---
 

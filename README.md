@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Calcium-Ion/new-api/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Calcium-Ion/new-api?color=brightgreen" alt="license">
+  <a href="https://raw.githubusercontent.com/zhifengjin050-arch/new-api/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zhifengjin050-arch/new-api?color=brightgreen" alt="license">
   </a><!--
-  --><a href="https://github.com/Calcium-Ion/new-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Calcium-Ion/new-api?color=brightgreen&include_prereleases" alt="release">
+  --><a href="https://github.com/zhifengjin050-arch/new-api">
+    <img src="https://img.shields.io/badge/repo-GitHub-brightgreen" alt="repo">
   </a><!--
-  --><a href="https://hub.docker.com/r/CalciumIon/new-api">
-    <img src="https://img.shields.io/badge/docker-dockerHub-blue" alt="docker">
+  --><a href="https://github.com/zhifengjin050-arch/new-api">
+    <img src="https://img.shields.io/github/languages/top/zhifengjin050-arch/new-api" alt="language">
   </a><!--
-  --><a href="https://goreportcard.com/report/github.com/Calcium-Ion/new-api">
-    <img src="https://goreportcard.com/badge/github.com/Calcium-Ion/new-api" alt="GoReportCard">
+  --><a href="https://github.com/zhifengjin050-arch/new-api">
+    <img src="https://img.shields.io/github/repo-size/zhifengjin050-arch/new-api" alt="size">
   </a>
 </p>
 
@@ -45,6 +45,7 @@
 <p align="center">
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-key-features">Key Features</a> •
+  <a href="#-screenshots">Screenshots</a> •
   <a href="#-deployment">Deployment</a> •
   <a href="#-documentation">Documentation</a> •
   <a href="#-help-support">Help</a>
@@ -289,6 +290,29 @@ docker run --name new-api -d --restart always \
 - [Google Gemini Chat](https://docs.newapi.pro/en/docs/api/ai-model/chat/gemini/geminirelayv1beta)
 
 </details>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Landing Page
+![Landing Page](docs/images/screenshots/01-landing.png)
+
+### 📊 Dashboard Overview
+![Dashboard Overview](docs/images/screenshots/02-dashboard.png)
+
+### 💰 Pricing Page
+![Pricing Page](docs/images/screenshots/03-pricing.png)
+
+### 📊 Data Analytics
+![Data Analytics](docs/images/screenshots/05-dashboard.png)
+
+### 🔑 API Key Management
+![API Key Management](docs/images/screenshots/04-api-keys.png)
+
+</div>
 
 ---
 
