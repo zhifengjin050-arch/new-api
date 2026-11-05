@@ -1,3 +1,22 @@
+![多模型接入与 AI 资产管理](docs/showcase/cover.svg)
+
+## ✨ 项目速览
+
+- 围绕统一模型 API、渠道管理、动态计价与负载均衡组织 AI 网关能力。
+- 按 Router → Controller → Service → Model 分层，Relay 模块承接模型提供方适配。
+- 包含鉴权、限流与管理控制台；阅读时可沿请求路由、模型转发和数据模型逐层深入。
+
+### 🧭 源码阅读路线
+
+- **[请求路由](router/)**
+- **[模型转发](relay/)**
+- **[鉴权与限流](middleware/)**
+- **[管理控制台](web/)**
+
+> 项目身份与上游归属保留为 **New API / QuantumNous**。部署与完整功能说明见 [中文完整文档](README.zh_CN.md)、[英文文档](README_EN.md)；使用及分发请阅读 [LICENSE](LICENSE)、[NOTICE](NOTICE) 与 [第三方许可](THIRD-PARTY-LICENSES.md)。
+
+---
+
 # New API
 
 **中文** | [English](README_EN.md)
