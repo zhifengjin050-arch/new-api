@@ -1,0 +1,38 @@
+{
+  "title": "New API",
+  "subtitle": "多模型接入与 AI 资产管理",
+  "stack": "Model Gateway · Channels · Billing",
+  "repository": "zhifengjin050-arch/new-api",
+  "sections": [
+    {
+      "id": "section-01",
+      "title": "工程导读 · 从场景到实现",
+      "caption": "01 / PROJECT DOCUMENTATION"
+    },
+    {
+      "id": "section-02",
+      "title": "项目速览",
+      "caption": "02 / PROJECT DOCUMENTATION"
+    },
+    {
+      "id": "section-03",
+      "title": "项目定位",
+      "caption": "03 / PROJECT DOCUMENTATION"
+    },
+    {
+      "id": "section-04",
+      "title": "核心能力",
+      "caption": "04 / PROJECT DOCUMENTATION"
+    },
+    {
+      "id": "section-05",
+      "title": "快速开始",
+      "caption": "05 / PROJECT DOCUMENTATION"
+    },
+    {
+      "id": "section-06",
+      "title": "License",
+      "caption": "06 / PROJECT DOCUMENTATION"
+    }
+  ]
+}

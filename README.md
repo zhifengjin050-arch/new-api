@@ -1,7 +1,9 @@
-![多模型接入与 AI 资产管理](docs/showcase/cover.svg)
+<picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/hero-light.svg"><img src="docs/showcase/hero-light.svg" alt="New API · 多模型接入与 AI 资产管理" width="100%"></picture>
 
 <!-- engineering-guide:start -->
-## 🧭 工程导读 · 从场景到实现
+<a id="-工程导读--从场景到实现"></a>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/section-01-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/section-01-light.svg"><img src="docs/showcase/section-01-light.svg" alt="工程导读 · 从场景到实现" width="100%"></picture></h2>
+
 
 **模型网关的请求、渠道与计费链路**。把多个模型提供方与渠道收敛到统一 API 与管理控制台，围绕接入、路由、访问控制与费用管理组织阅读。
 
@@ -24,7 +26,9 @@ flowchart LR
 
 
 
-## ✨ 项目速览
+<a id="-项目速览"></a>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/section-02-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/section-02-light.svg"><img src="docs/showcase/section-02-light.svg" alt="项目速览" width="100%"></picture></h2>
+
 
 - 围绕统一模型 API、渠道管理、动态计价与负载均衡组织 AI 网关能力。
 - 按 Router → Controller → Service → Model 分层，Relay 模块承接模型提供方适配。
@@ -49,18 +53,24 @@ flowchart LR
 
 > 本仓库默认中文说明。完整英文文档见 [README_EN.md](README_EN.md)。
 
-## 项目定位
+<a id="项目定位"></a>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/section-03-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/section-03-light.svg"><img src="docs/showcase/section-03-light.svg" alt="项目定位" width="100%"></picture></h2>
+
 
 面向团队与企业的下一代 AI API 聚合平台，把多个模型与渠道收敛到统一网关。
 
-## 核心能力
+<a id="核心能力"></a>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/section-04-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/section-04-light.svg"><img src="docs/showcase/section-04-light.svg" alt="核心能力" width="100%"></picture></h2>
+
 
 - 多模型统一网关
 - 通道池与负载均衡
 - 动态计价
 - AI 资产 / 渠道管理
 
-## 快速开始
+<a id="快速开始"></a>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/section-05-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/section-05-light.svg"><img src="docs/showcase/section-05-light.svg" alt="快速开始" width="100%"></picture></h2>
+
 
 请参考英文文档中的安装与部署章节：
 
@@ -68,6 +78,8 @@ flowchart LR
 
 或查看仓库 web/ 与相关部署说明。
 
-## License
+<a id="license"></a>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="docs/showcase/section-06-dark.svg"><source media="(prefers-color-scheme: light)" srcset="docs/showcase/section-06-light.svg"><img src="docs/showcase/section-06-light.svg" alt="License" width="100%"></picture></h2>
+
 
 以仓库内 LICENSE / 上游声明为准。
